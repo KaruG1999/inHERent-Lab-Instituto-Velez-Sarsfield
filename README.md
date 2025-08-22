@@ -1,7 +1,7 @@
-# Instituto Vélez Sárfield — Fase 1: Landing + App del Clima
+# Instituto Vélez Sárfield — Fase 1: Landing + App del Tienpo
 
-**Estado:** Primera fase del proyecto — incluye la Página Principal (Landing) y la App del Clima (una ciudad: la del colegio).  
-**Objetivo:** diseño en Figma y front-end implementado en **Next.js + Tailwind**. Esta fase es _solo front_ para la App del Clima: durante el desarrollo usamos un `mock` JSON; la integración con la API real de la estación se hace al final (handoff).
+**Estado:** Primera fase del proyecto — incluye la Página Principal (Landing) y la App del Tiempo (una ciudad: la del colegio).  
+**Objetivo:** diseño en Figma y front-end implementado en **Next.js + Tailwind**. Esta fase es _solo front_ para la App del Tiempo: durante el desarrollo usamos un `mock` JSON; la integración con la API real de la estación se hace al final (handoff).
 
 ---
 
